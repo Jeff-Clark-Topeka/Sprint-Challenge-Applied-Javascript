@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    Also knowm as the Document Object Model, it is a cross-platform language used to create a bridge between HTML, CSS and Javascript. It creates a tree-like structure that we can then use to manipulate data at multiple levels in a webpage.
+
 2. What is an event?
+
+    An event is an interactive feature that manipulates HTML from the DOM
 
 3. What is an event listener?
 
+    An event listener is a function that then tells the webpage to wait for a specific action and upon that action it activates an event on the page.
+
 4. Why would we convert a NodeList into an Array?
 
+    Converting a Nodelist to an Array allows us to then use Javascript methods such as forEach to manipulate the data we are receiving. 
+
 5. What is a component?
+
+    A component is a chunk of code that we create using functions that then can be reused as many times as needed. It allows our code to be less DRY.
 
 ### Git Set up
 
